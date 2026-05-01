@@ -1,0 +1,9 @@
+Order_ID,Order_Date,Customer_Name,Category,Sub_Category,Sales,Profit,Discount,Region,City
+CA-1001,2024-01-05,John Smith,Technology,Phones,1200.50,250.75,0.10,East,New York
+CA-1002,2024-01-06,Sarah Jones,Furniture,Chairs,650.00,80.25,0.15,West,Los Angeles
+CA-1003,2024-01-07,Michael Brown,Office Supplies,Binders,210.40,45.90,0.05,Central,Chicago
+CA-1004,2024-01-08,Emma Wilson,Technology,Accessories,320.00,70.00,0.00,South,Dallas
+CA-1005,2024-01-09,David Lee,Furniture,Tables,980.75,120.30,0.20,East,Boston
+CA-1006,2024-01-10,Olivia Martin,Office Supplies,Paper,95.40,20.10,0.00,West,Seattle
+CA-1007,2024-01-11,James Taylor,Technology,Phones,1500.00,310.50,0.10,Central,Houston
+CA-1008,2024-01-12,Sophia Davis,Furniture,Bookcases,730.25,95.20,0.12,South,Atlanta
